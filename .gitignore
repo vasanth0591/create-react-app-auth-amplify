@@ -6,9 +6,11 @@ amplify/backend/amplify-meta.json
 
 # dependencies
 /node_modules
+/ui-automation/node_modules
 
 # testing
 /coverage
+/ui-automation/allure-results
 
 # production
 /build
